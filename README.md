@@ -2,7 +2,7 @@
 
 Slides del Taller "Control de Versiones con Git" usando el paquete [xaringan](https://github.com/yihui/xaringan#xaringan) inspirado en el Tema de [RLadies-xalapa](https://spcanelon.github.io/xaringan-rladies-xalapa/index.html), en el marco del 18ª Festival de Software Libre Loja 2022.
 
-Este es el primer Taller de The Carpentries organizado en Ecuador de forma independiente con el apoyo de RLadies Guayaquily RLadies Galápagos
+Este es el primer Taller de The Carpentries organizado en Ecuador de forma independiente con el apoyo de RLadies Guayaquil y RLadies Galápagos.
 
 ![](img/portada.jpg)
 
