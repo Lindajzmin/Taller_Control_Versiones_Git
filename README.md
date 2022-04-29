@@ -34,5 +34,5 @@ Este es el primer Taller de The Carpentries organizado en Ecuador de forma indep
 ## Lecciones: [The Carpentries: Control de versiones con Git](https://swcarpentry.github.io/git-novice-es/)
 ![](img/leccionesTC.jpg)
 
-## Taller: [Control de versiones con Git en vivo](https://www.youtube.com/watch?v=zhDGiDqLQxo)
-![](img/taller-git.png)
+## Taller: [YouTube: Control de versiones con Git en vivo](https://www.youtube.com/watch?v=zhDGiDqLQxo)
+
